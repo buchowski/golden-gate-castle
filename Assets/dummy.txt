@@ -1,0 +1,1 @@
+This file exists so /Assets is commited to source control. Unity Hub needs /Assets in order to open the project
